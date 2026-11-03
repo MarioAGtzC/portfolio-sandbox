@@ -1,5 +1,5 @@
 {
-  "subtitle": "Backend-focused full-stack engineer with a serverless-first mindset",
+  "subtitle": "Backend-focused full-stack engineer with a serverless-first mindset.",
   "paragraphs": [
     "I'm a full-stack software engineer with professional experience across backend APIs, serverless architectures, and full-stack web development. I started out in 2020 as a full-stack web developer working with PHP, Node.js, and Flutter, then moved into enterprise work, and since 2022 I've been focused on backend engineering, building AWS-based microservices, conversational AI bots on Amazon Lex, and AI-powered tools for managing conversation context.",
     "My core stack is JavaScript/TypeScript and Node.js (Express, NestJS) on the backend, paired with React and Next.js on the frontend. I work a lot with AWS serverless services like Lambda, API Gateway, Lex, Connect, DynamoDB, S3, and CloudWatch, plus both SQL and NoSQL databases (PostgreSQL, MySQL, MongoDB, Redis). I also have experience with Python/Django, Terraform for infrastructure as code, and Docker, and I keep learning new things like AI-assisted development and semantic search.",
